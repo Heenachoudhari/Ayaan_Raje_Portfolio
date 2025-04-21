@@ -24,7 +24,7 @@ export default function About() {
         {/* Text Section */}
         <div className="max-w-lg animate-fade-in lg:-mt-10">
           <h1 className="text-5xl lg:text-6xl font-bold">
-            Meet <span className="text-blue-500">Ayaan Raje Sir</span>
+            Meet <span className="text-blue-500">Ayaan Raje</span>
           </h1>
           <p className="mt-6 text-lg lg:text-xl text-[#000957] font-semibold">
             <TypeAnimation
